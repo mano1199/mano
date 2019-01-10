@@ -1,9 +1,9 @@
 n=int(raw_input())
 if (n>0):
-	print('positive')
+	print('Positive')
 elif (n<0):
-	print('negative')
+	print('Negative')
 elif (n==0):
-	print('zero')
+	print('Zero')
 	
 	
