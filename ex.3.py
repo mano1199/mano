@@ -1,8 +1,6 @@
-s=input()
-
-if((s=='a'or s=='e'or s=='i'or s=='o'or s=='u') or (s=='A'or s=='E'or s=='I'or s=='O'or s=='U')):
-     
-    	print("Vowel")
-     
+n=['a','e','i','o','u']
+m=raw_input()
+if(m in n):
+	print('vowels')
 else:
-    	print("Consonant")
+	print('Consonant')
