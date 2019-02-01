@@ -1,3 +1,6 @@
-m=int(raw_input())
-n=int(raw_input())
-print m**n
+m=input()
+ss=m.split()
+a=int(ss[0])
+b=int(ss[1])
+e=(a**b)
+print(e)
