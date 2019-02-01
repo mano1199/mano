@@ -1,2 +1,2 @@
-s=str(input())
-print(s[::-1])
+mano=str(input())
+print(mano[::-1])
