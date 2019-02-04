@@ -1,4 +1,4 @@
 n=int(input())
-for i in range(1,5):
+for i in range(1,6):
 	c=n*i
-	print(c)
+	print(c,end="  ")
