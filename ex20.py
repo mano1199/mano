@@ -1,4 +1,6 @@
-n=int(input())
+a=int(input())
+d=[]
 for i in range(1,6):
-	c=n*i
-	print(c,end="  ")
+	c=a*i
+    d.append(c)
+print(*d)
