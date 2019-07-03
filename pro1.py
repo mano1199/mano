@@ -1,3 +1,4 @@
+#mano
 def check(q,l):
     t=l[0]
     m = []
